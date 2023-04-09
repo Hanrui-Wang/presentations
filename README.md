@@ -1,1 +1,1 @@
-repo for talk and poster files
+repo for talk slides and poster files
